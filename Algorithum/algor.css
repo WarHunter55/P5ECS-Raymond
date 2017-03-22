@@ -1,0 +1,62 @@
+body{
+	
+	background-color: black;
+	
+}
+
+h1 {
+	color: red;
+}
+
+
+#header{
+	
+	text-align: center;
+	font-size: 40px;
+	
+}
+
+#riddle{
+	
+    height: 700px;
+    width: 49%;
+	color: Red;
+	float: left;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/63/e1/65/63e1657a8a6249a2fc9c062b17f27ce0.gif);
+	background-size: cover;
+	background-size: 94%;
+	
+}
+
+#answer{
+	
+	height: 700px;
+    width: 49%;
+	color: red;
+	float: right;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/63/e1/65/63e1657a8a6249a2fc9c062b17f27ce0.gif);
+	background-size: 94%;
+	
+}
+
+
+#answer2{
+	
+	  height: 70px;
+    width: 50%;
+	color: red;
+	float: left;
+	margin-top: 350px;
+	margin-left: 175px
+	
+}
+
+
+
+
+
+wrong answer:
+https://68.media.tumblr.com/64b817bb45612fdcc862581721a2cc33/tumblr_o9iya5rOyu1ssr9ygo1_500.gif
+
+text box:
+https://s-media-cache-ak0.pinimg.com/originals/63/e1/65/63e1657a8a6249a2fc9c062b17f27ce0.gif

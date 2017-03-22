@@ -1,0 +1,72 @@
+var items;
+
+function setup(){
+	createCanvas(1000,1000);
+	
+	
+	items = loadJSON("sample13.JSON")
+	
+	
+	
+	
+	
+	//items = {
+		name: "Item: master sword",
+		location: "Location: water temple",
+		color: color(200,200,0);			
+	}
+	
+	
+	//items2 = {
+		name: "Item-master sheild",
+		location: "Location-Hyrule Castle",
+		color: color(200,200,0)
+	}
+	
+	
+	//items3 = {
+		name: "Item-Ocarena",
+		location: "Location-anywhere",
+		color: color(200,200,0)
+	}
+	
+	//items4 = {
+		name: "Item-Bottle",
+		location: "Location-Shops and drops",
+		color: color(200,200,0)		
+	}
+	
+	//items5 = {
+		name: "Item-Fairies",
+		location: "Location-fairy fountain",
+		color: color(200,200,0)
+	}	
+	
+}
+}
+
+
+function draw(){
+	
+	background(0);
+	fill(items.color);
+	text(items.name, 10, 50);
+	text(items.location, 10, 60);
+
+	//fill(items2.color);
+	//text(items2.name, 10, 80);
+	//text(items2.location, 10, 90);
+	
+	//fill(items3.color);
+	//text(items3.name, 10, 110);
+	//text(items3.location, 10, 120);
+
+	//fill(items4.color);
+	//text(items4.name, 10, 140);
+	//text(items4.location, 10, 150);
+
+	//fill(items5.color);
+	//text(items5.name, 10, 170);
+	//text(items5.location, 10, 180);
+
+}

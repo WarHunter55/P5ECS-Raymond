@@ -1,0 +1,31 @@
+{
+"weapons": [
+	
+	{
+		"name": "Item: master sword",
+		"location": "Location: water temple",
+		"red": 200,
+		"green": 200,
+		"blue": 0			
+	},
+	
+	
+	{
+		"name": "Item: Master Sheild",
+		"location": "Location-Hyrule Castle",
+		"red": 200,
+		"green": 200,
+		"blue": 0
+	},
+	
+	
+	{
+		"name": "Item: Ocarena",
+		"location": ["NeverLand"," viridian city"," King Kia Planet"," Providence High School"],
+		"red": 200,
+		"green": 200,
+		"blue": 0
+	}
+	
+]
+}
