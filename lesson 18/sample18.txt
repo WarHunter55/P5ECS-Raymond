@@ -1,0 +1,9 @@
+	
+	//link = createA('#', 'Click me for instagram articles!');
+	//link.mousePressed(findArticles);
+	
+	//input = createInput("search");
+	//input.size(300);
+	
+	//button = createButton('submit');
+	//button.mousePressed(findArticles);
